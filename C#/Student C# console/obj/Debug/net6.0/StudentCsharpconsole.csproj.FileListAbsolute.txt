@@ -1,0 +1,15 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.AssemblyInfoInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.AssemblyInfo.cs
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\bin\Debug\net6.0\StudentCsharpconsole.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\bin\Debug\net6.0\StudentCsharpconsole.deps.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\bin\Debug\net6.0\StudentCsharpconsole.runtimeconfig.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\bin\Debug\net6.0\StudentCsharpconsole.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\bin\Debug\net6.0\StudentCsharpconsole.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\refint\StudentCsharpconsole.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\StudentCsharpconsole.genruntimeconfig.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentCsharpconsole\obj\Debug\net6.0\ref\StudentCsharpconsole.dll

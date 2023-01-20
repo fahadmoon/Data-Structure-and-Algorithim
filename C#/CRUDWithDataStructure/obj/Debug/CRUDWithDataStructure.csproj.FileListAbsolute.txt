@@ -1,0 +1,15 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\bin\Debug\CRUDWithDataStructure.exe.config
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\bin\Debug\CRUDWithDataStructure.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\bin\Debug\CRUDWithDataStructure.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.csproj.SuggestedBindingRedirects.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.AddRecord.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.delete.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.Form1.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.Properties.Resources.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.ShowData.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.update.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.csproj.GenerateResource.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\CRUDWithDataStructure\obj\Debug\CRUDWithDataStructure.pdb

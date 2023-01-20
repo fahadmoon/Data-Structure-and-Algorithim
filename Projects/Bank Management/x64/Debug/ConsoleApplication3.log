@@ -1,0 +1,14 @@
+﻿  ConsoleApplication3.cpp
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(394,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(434,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(487,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(569,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(726,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(776,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(824,11): warning C4129: '=': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(843,12): warning C4129: 'F': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(915,16): warning C4129: '=': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(1007,11): warning C4129: '=': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(1041,13): warning C4129: '=': unrecognized character escape sequence
+E:\Project\ConsoleApplication3\ConsoleApplication3.cpp(1169,13): warning C4129: '=': unrecognized character escape sequence
+  ConsoleApplication3.vcxproj -> E:\Project\ConsoleApp1\x64\Debug\ConsoleApplication3.exe

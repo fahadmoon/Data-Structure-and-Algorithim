@@ -1,0 +1,2 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Practice\Student\x64\Debug\Student.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\Student\x64\Debug\Student.exe

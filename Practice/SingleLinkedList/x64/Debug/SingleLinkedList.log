@@ -1,0 +1,2 @@
+﻿  SingleLinkedList.cpp
+LINK : fatal error LNK1168: cannot open D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Practice\SingleLinkedList\x64\Debug\SingleLinkedList.exe for writing

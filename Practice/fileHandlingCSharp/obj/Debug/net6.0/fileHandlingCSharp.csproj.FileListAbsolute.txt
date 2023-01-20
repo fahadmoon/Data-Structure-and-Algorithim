@@ -1,0 +1,15 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\bin\Debug\net6.0\fileHandlingCSharp.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\bin\Debug\net6.0\fileHandlingCSharp.deps.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\bin\Debug\net6.0\fileHandlingCSharp.runtimeconfig.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\bin\Debug\net6.0\fileHandlingCSharp.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\bin\Debug\net6.0\fileHandlingCSharp.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.AssemblyInfoInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.AssemblyInfo.cs
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\refint\fileHandlingCSharp.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\fileHandlingCSharp.genruntimeconfig.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\fileHandlingCSharp\obj\Debug\net6.0\ref\fileHandlingCSharp.dll

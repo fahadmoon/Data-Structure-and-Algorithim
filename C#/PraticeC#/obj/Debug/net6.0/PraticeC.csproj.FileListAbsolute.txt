@@ -1,0 +1,15 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\bin\Debug\net6.0\PraticeC.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\bin\Debug\net6.0\PraticeC.deps.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\bin\Debug\net6.0\PraticeC.runtimeconfig.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\bin\Debug\net6.0\PraticeC.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\bin\Debug\net6.0\PraticeC.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.AssemblyInfoInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.AssemblyInfo.cs
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\refint\PraticeC.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\PraticeC.genruntimeconfig.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\PraticeC\obj\Debug\net6.0\ref\PraticeC.dll

@@ -1,0 +1,15 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\bin\Debug\net6.0\PharmacyConsole.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\bin\Debug\net6.0\PharmacyConsole.deps.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\bin\Debug\net6.0\PharmacyConsole.runtimeconfig.json
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\bin\Debug\net6.0\PharmacyConsole.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\bin\Debug\net6.0\PharmacyConsole.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.AssemblyInfoInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.AssemblyInfo.cs
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\refint\PharmacyConsole.dll
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\PharmacyConsole.genruntimeconfig.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Assignment\PharmacyConsole\obj\Debug\net6.0\ref\PharmacyConsole.dll

@@ -1,0 +1,18 @@
+﻿  Project 1.cpp
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(311,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(567,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(623,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(629,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(649,12): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(655,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(739,9): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(861,9): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1016,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1092,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1417,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1453,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1494,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1516,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1586,11): warning C4551: function call missing argument list
+C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\Project 1.cpp(1627,11): warning C4551: function call missing argument list
+  Project 1.vcxproj -> C:\Users\ACER\Desktop\PharmacyFinalProject\Project 1\x64\Debug\Project 1.exe

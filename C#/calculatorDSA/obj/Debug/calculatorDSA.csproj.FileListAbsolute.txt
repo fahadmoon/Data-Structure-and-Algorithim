@@ -1,0 +1,11 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\bin\Debug\calculatorDSA.exe.config
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\bin\Debug\calculatorDSA.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\bin\Debug\calculatorDSA.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.csproj.SuggestedBindingRedirects.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.Form1.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.Properties.Resources.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.csproj.GenerateResource.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\C#\calculatorDSA\obj\Debug\calculatorDSA.pdb

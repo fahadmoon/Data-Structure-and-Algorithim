@@ -1,0 +1,16 @@
+E:\Project\practice UI\PracticeUI\bin\Debug\PracticeUI.exe.config
+E:\Project\practice UI\PracticeUI\bin\Debug\PracticeUI.exe
+E:\Project\practice UI\PracticeUI\bin\Debug\PracticeUI.pdb
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.csproj.AssemblyReference.cache
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.csproj.SuggestedBindingRedirects.cache
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Form1.resources
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Properties.Resources.resources
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.csproj.GenerateResource.cache
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.csproj.CoreCompileInputs.cache
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.exe
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.pdb
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Forms.FormLogOut.resources
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Forms.FormProduct.resources
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Forms.FormSearch.resources
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Forms.FormSell.resources
+E:\Project\practice UI\PracticeUI\obj\Debug\PracticeUI.Forms.FormUpdate.resources

@@ -1,0 +1,13 @@
+﻿  ConsoleApplication4.cpp
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(218,21): warning C4101: 'a': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(472,19): warning C4101: 'aNO': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(474,14): warning C4101: 'garde': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(566,21): warning C4101: 'a': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(677,13): warning C4101: 'aID': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(681,14): warning C4101: 'garde': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(715,14): warning C4101: 'garde': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(936,11): warning C4102: 'defalt': unreferenced label
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(845,9): warning C4101: 'm': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(847,10): warning C4101: 'username': unreferenced local variable
+E:\Project\ConsoleApplication4\ConsoleApplication4.cpp(847,24): warning C4101: 'password': unreferenced local variable
+  ConsoleApplication4.vcxproj -> E:\Project\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe

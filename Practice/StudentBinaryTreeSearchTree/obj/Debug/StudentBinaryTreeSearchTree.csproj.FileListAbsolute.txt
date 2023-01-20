@@ -1,0 +1,14 @@
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.csproj.AssemblyReference.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.csproj.SuggestedBindingRedirects.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.Dispaly.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.Form1.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.Properties.Resources.resources
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.csproj.GenerateResource.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\bin\Debug\Students.mdf
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\bin\Debug\Students_log.ldf
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\bin\Debug\StudentBinaryTreeSearchTree.exe.config
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\bin\Debug\StudentBinaryTreeSearchTree.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\bin\Debug\StudentBinaryTreeSearchTree.pdb
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.exe
+D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Projects\StudentBinaryTreeSearchTree\obj\Debug\StudentBinaryTreeSearchTree.pdb

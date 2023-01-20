@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open D:\BS Computer Science\3rd Semester\Data Structure & Algoritham\Home Task\BubbleSorted\x64\Debug\BubbleSorted.exe for writing

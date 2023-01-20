@@ -1,0 +1,259 @@
+    public static class ThemeColor
+    {
+
+        public static Color PrimaryColor { get; set; }
+        public static Color SecondaryColor { get; set; }
+        public static List<string> ColorList = new List<string>() { "#3F51B5",
+                                                                    "#009688",
+                                                                    "#FF5722",
+                                                                    "#607D8B",
+                                                                    "#FF9800",
+                                                                    "#9C27B0",
+                                                                    "#2196F3",
+                                                                    "#EA676C",
+                                                                    "#E41A4A",
+                                                                    "#5978BB",
+                                                                    "#018790",
+                                                                    "#0E3441",
+                                                                    "#00B0AD",
+                                                                    "#721D47",
+                                                                    "#EA4833",
+                                                                    "#EF937E",
+                                                                    "#F37521",
+                                                                    "#A12059",
+                                                                    "#126881",
+                                                                    "#8BC240",
+                                                                    "#364D5B",
+                                                                    "#C7DC5B",
+                                                                    "#0094BC",
+                                                                    "#E4126B",
+                                                                    "#43B76E",
+                                                                    "#7BCFE9",
+                                                                    "#B71C46"
+};
+        public static Color ChangeColorBrightness(Color color, double correctionFactor)
+        {
+            double red = color.R;
+            double green = color.G;
+            double blue = color.B;
+
+            //If correction factor is less than 0, darken color.
+            if (correctionFactor < 0)
+            {
+                correctionFactor = 1 + correctionFactor;
+                red *= correctionFactor;
+                green *= correctionFactor;
+                blue *= correctionFactor;
+            }
+            //If correction factor is greater than zero, lighten color.
+            else
+            {
+                red = (255 - red) * correctionFactor + red;
+                green = (255 - green) * correctionFactor + green;
+                blue = (255 - blue) * correctionFactor + blue;
+            }
+
+            return Color.FromArgb(color.A, (byte)red, (byte)green, (byte)blue);
+        }
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////
+   public partial class FormMainMenu : Form
+    {
+        //Fields
+        private Button currentButton;
+        private Random random;
+        private int tempIndex;
+        private Form activeForm;
+
+        //Constructor
+        public FormMainMenu()
+        {
+            InitializeComponent();
+            random = new Random();
+            btnCloseChildForm.Visible = false;
+            this.Text = string.Empty;
+            this.ControlBox = false;
+            this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
+        }
+        [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+
+        [DllImport("user32.DLL", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
+
+        //Methods
+        private Color SelectThemeColor()
+        {
+            int index = random.Next(ThemeColor.ColorList.Count);
+            while (tempIndex == index)
+            {
+                index = random.Next(ThemeColor.ColorList.Count);
+            }
+            tempIndex = index;
+            string color = ThemeColor.ColorList[index];
+            return ColorTranslator.FromHtml(color);
+        }
+
+        private void ActivateButton(object btnSender)
+        {
+            if (btnSender != null)
+            {
+                if (currentButton != (Button)btnSender)
+                {
+                    DisableButton();
+                    Color color = SelectThemeColor();
+                    currentButton = (Button)btnSender;
+                    currentButton.BackColor = color;
+                    currentButton.ForeColor = Color.White;
+                    currentButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                    panelTitleBar.BackColor = color;
+                    panelLogo.BackColor = ThemeColor.ChangeColorBrightness(color, -0.3);
+                    ThemeColor.PrimaryColor = color;
+                    ThemeColor.SecondaryColor= ThemeColor.ChangeColorBrightness(color, -0.3);
+                    btnCloseChildForm.Visible = true;
+                }
+            }
+        }
+
+        private void DisableButton()
+        {
+            foreach (Control previousBtn in panelMenu.Controls)
+            {
+                if (previousBtn.GetType() == typeof(Button))
+                {
+                    previousBtn.BackColor = Color.FromArgb(51, 51, 76);
+                    previousBtn.ForeColor = Color.Gainsboro;
+                    previousBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                }
+            }
+        }
+
+        private void OpenChildForm(Form childForm, object btnSender)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            ActivateButton(btnSender);
+            activeForm = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            this.panelDesktopPane.Controls.Add(childForm);
+            this.panelDesktopPane.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
+            lblTitle.Text = childForm.Text;
+
+        }
+
+        private void btnProducts_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormProduct(), sender);
+        }
+
+        private void btnOrders_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormOrders(), sender);
+        }
+
+        private void btnCustomers_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormCustomers(), sender);
+        }
+
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormReporting(), sender);
+        }
+
+        private void btnNotifications_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormNotifications(), sender);
+        }
+
+        private void btnSetting_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormSetting(), sender);
+        }
+
+        private void btnCloseChildForm_Click(object sender, EventArgs e)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            Reset();
+        }
+
+        private void Reset()
+        {
+            DisableButton();
+            lblTitle.Text = "HOME";
+            panelTitleBar.BackColor = Color.FromArgb(0, 150, 136);
+            panelLogo.BackColor = Color.FromArgb(39, 39, 58);
+            currentButton = null;
+            btnCloseChildForm.Visible = false;
+        }
+
+        private void panelTitleBar_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnMaximize_Click(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Normal)
+                this.WindowState = FormWindowState.Maximized;
+            else
+                this.WindowState = FormWindowState.Normal;
+        }
+
+        private void bntMinimize_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+    }
+
+
+
+
+
+
+
+
+////////////////////
+        private void FormOrders_Load(object sender, EventArgs e)
+        {
+            LoadTheme();
+        }
+
+        private void LoadTheme()
+        {
+            foreach (Control btns in this.Controls)
+            {
+                if (btns.GetType() == typeof(Button))
+                {
+                    Button btn = (Button)btns;
+                    btn.BackColor = ThemeColor.PrimaryColor;
+                    btn.ForeColor = Color.White;
+                    btn.FlatAppearance.BorderColor = ThemeColor.SecondaryColor;
+                }
+            }
+            label4.ForeColor = ThemeColor.SecondaryColor;
+            label5.ForeColor = ThemeColor.PrimaryColor;
+        }
